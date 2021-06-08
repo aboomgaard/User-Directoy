@@ -1,30 +1,77 @@
 # User-Directoy
-Description
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+  ## Description 
+    
 
-Table of Contents -Installation
+  ## Application
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+  ## Description 
+    
 
--Usage
+  ## Application
+    aboomgaard.github.io/UserDirectory
+    
+  ## Table of Contents 
 
--License
+  * [Installation](#installation)
+  * [usage](#usage)
+  * [License](#license)
+  * [contributors](#contributors)
+  * [Test](#test)
+  * [Contact](#contact)
+ 
+  # Usage
+  git clone
 
--Contributors
+  # License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  # Contributors
+  Create a pull request to contribute
 
--Test
+  # Test
+  None
+  
+  # Contact
+  If you have any questions feel free to directly contact me here:
+   
+   GitHub:
+   aboomgaard
 
--Contact
+   Email:
+   amaliaboomgaard@gmail.com
+ 
 
-Installation
+    
+  ## Table of Contents 
 
-Usage
+  * [Installation](#installation)
+  * [usage](#usage)
+  * [License](#license)
+  * [contributors](#contributors)
+  * [Test](#test)
+  * [Contact](#contact)
+ 
+  # Usage
+  git clone
 
-License
+  # License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  # Contributors
+  Create a pull request to contribute
 
-Contributors
+  # Test
+  None
+  
+  # Contact
+  If you have any questions feel free to directly contact me here:
+   
+   GitHub:
+   aboomgaard
 
-Test
-
-Contact If you have any questions feel free to directly contact me here:
-
-GitHub: aboomgaard
-
-Email: amaliaboomgaard@gmail.com
+   Email:
+   amaliaboomgaard@gmail.com
+ 
