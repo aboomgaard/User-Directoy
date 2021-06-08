@@ -3,14 +3,6 @@
     
   ## Description 
     
-
-  ## Application
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    https://aboomgaard.github.io/UserDirectory
-    
-  ## Description 
-    
-
   ## Application
     aboomgaard.github.io/UserDirectory
     
