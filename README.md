@@ -4,7 +4,7 @@
   ## Description 
     
   ## Application
-     https://aboomgaard.github.io/UserDirectory
+     https://aboomgaard.github.io/UserDirectory/
     
   ## Table of Contents 
 
